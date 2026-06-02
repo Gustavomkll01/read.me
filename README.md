@@ -1,6 +1,5 @@
-## 👋 E aí, beleza?
 
-Me chamo *Marcio Gustavo* e sou estudante de *Engenharia de Software (8º período)*. 
+ Me chamo *Marcio Gustavo* e sou estudante de *Engenharia de Software (8º período)*. 
  Atualmente atuo na área de Suporte e Desenvolvimento , Contribuindo e aprendendo no setor de Tecnologia da empresa Infocase ,sempre disposto a aprender novas tecnologias e controbuir com novas melhorias e obervaçoes com o time , seja bem vindo.
 
 Sou apaixonado por tecnologia, automação de processos e desenvolvimento de sistemas que gerem impacto real no negócio.
